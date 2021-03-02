@@ -1,0 +1,7 @@
+*** Agencies WordPress Theme Changelog ***
+
+2017.05.31 - version 1.0
+ * First release! 
+
+2017.06.05 - version 1.1
+ * Updated dummy data
